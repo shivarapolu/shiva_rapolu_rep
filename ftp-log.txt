@@ -1,3 +1,5 @@
+added 1 line in this
+
 2017-04-10 14:01:57,344 INFO [pool-8-thread-1] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@3a744e32 checkpointed with 0 Records and 0 Swap Files in 87 milliseconds (Stop-the-world time = 51 milliseconds, Clear Edit Logs time = 31 millis), max Transaction ID 3
 2017-04-10 14:01:57,344 INFO [pool-8-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 87 milliseconds
 2017-04-10 14:03:56,070 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@304933cb checkpointed with 0 Records and 0 Swap Files in 6 milliseconds (Stop-the-world time = 3 milliseconds, Clear Edit Logs time = 2 millis), max Transaction ID -1
